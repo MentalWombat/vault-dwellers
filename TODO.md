@@ -4,9 +4,6 @@ This is a TODO list for my pet project. Let's see if that's enough for a small p
 
 ## BACKLOG
 
-- [ ] Configure linting and formatting tools
-  - [x] Configure prettier
-  - [ ] Configure eslint
 - [ ] Configure testing tool
 - [ ] Create mock data in json format
 - [ ] Create palette
@@ -15,4 +12,7 @@ This is a TODO list for my pet project. Let's see if that's enough for a small p
 
 ## DONE
 
+- [x] Configure linting and formatting tools
+  - [x] Configure prettier
+  - [x] Configure eslint
 - [x] Create repo to start a project with Nextjs
