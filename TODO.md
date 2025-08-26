@@ -4,14 +4,14 @@ This is a TODO list for my pet project. Let's see if that's enough for a small p
 
 ## BACKLOG
 
-- [ ] Configure testing tool
+- [ ] Create some pages
 - [ ] Create mock data in json format
 - [ ] Create palette
-- [ ] Create 1st screen: list view
 - [ ] Publish project using GitHub Pages
 
 ## DONE
 
+- [x] Configure testing tool
 - [x] Configure linting and formatting tools
   - [x] Configure prettier
   - [x] Configure eslint
