@@ -11,6 +11,8 @@ This is a TODO list for my pet project. Let's see if that's enough for a small p
 
 ## DONE
 
+- [x] Add icon
+- [x] Add Chakra UI
 - [x] Configure testing tool
 - [x] Configure linting and formatting tools
   - [x] Configure prettier
