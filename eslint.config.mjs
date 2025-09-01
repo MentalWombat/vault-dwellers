@@ -11,6 +11,7 @@ const eslintConfig = [
     extends: ['next/core-web-vitals', 'next/typescript', 'prettier'],
     rules: {
       '@typescript-eslint/consistent-type-imports': ['error', { fixStyle: 'inline-type-imports' }],
+      '@typescript-eslint/no-empty-object-type': ['error', { allowWithName: 'Props$' }],
       'import/no-duplicates': 'error',
       'import/order': [
         'error',
